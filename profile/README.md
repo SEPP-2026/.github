@@ -9,7 +9,6 @@ SEPP-2026 hosts the Shelton Tool-Hire Review Portal, an MSc Software Engineering
 | [ReviewPortal-Web](https://github.com/SEPP-2026/ReviewPortal-Web) | Customer and staff web client for catalogue browsing, rental calculation, reviews, moderation, and admin workflows | Next.js, TypeScript, React |
 | [ReviewPortal-API](https://github.com/SEPP-2026/ReviewPortal-API) | ASP.NET Core backend API, business logic, persistence, authentication, image storage, telemetry, and deployment workflow | .NET 8, ASP.NET Core, EF Core, SQL Server |
 | [ReviewPortal-QA-Automation](https://github.com/SEPP-2026/ReviewPortal-QA-Automation) | Playwright smoke and regression tests against the deployed Review Portal environment | Playwright, TypeScript |
-| [.github](https://github.com/SEPP-2026/.github) | Organization profile README and shared GitHub metadata | Markdown |
 
 ## Current System Capabilities
 
